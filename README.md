@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow
+My name is Miguel Rojas. I'm from Santiago de Chile, but now I'm living in Houston, Texas.
